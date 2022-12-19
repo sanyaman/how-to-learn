@@ -1,0 +1,10 @@
+.two-columns__paragraph {
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragraph:nth-last-of-type(1n + 2) {
+  margin-bottom: 30px;
+}

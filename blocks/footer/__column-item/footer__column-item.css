@@ -1,0 +1,6 @@
+.footer__column-item {
+  opacity: 1;
+}
+.footer__column-item:hover {
+  opacity: 0.6;
+}
